@@ -43,7 +43,7 @@ flowchart TD
 </div>
 ## 🟢 Beginner Level
 
-> 💡 **Tip**
+> 💡 **Tip**:
 > You can use both **Python** and **R** as programming languages; however, I recommend **Python** as your primary choice. You will still encounter R, particularly in tasks related to data analytics and statistical analysis.
 >
 > Focus on understanding the **fundamental concepts** first. Do not rush into learning machine learning algorithms before building a strong foundation in **Python and mathematics**. Developing a clear understanding of the concepts is essential at every stage of your learning journey.
