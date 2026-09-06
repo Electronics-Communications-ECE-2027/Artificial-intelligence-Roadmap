@@ -41,25 +41,16 @@ flowchart TD
     J --> K[Chatbots • Computer Vision • NLP • Robotics]
 ```
 </div>
-# 🟢  Beginner Level 
+# Beginner Level
 > You can use both Python and R as programming languages; however, I recommend Python as your primary choice. You will still encounter R, particularly in tasks related to data analytics and statistical analysis.
 >Focus on understanding the fundamental concepts first. Do not rush into learning machine learning algorithms before building a strong foundation in Python and mathematics. Developing a clear understanding of >the concepts is essential at every stage of your learning journey.
 
-| Topics | Resources |
-|:....|:....:|....:|
-| Python | [:movie_camera:Udacity](https://www.udacity.com/org/aws-ai-ml-scholars-program/course/introduction-to-python--ud1110)
-[:movie_camera:Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&si=udnbLb2hbFvFVc_Y)
-[:movie_camera:Arabic Course](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=qFJVKbjyohBr78ge) 
-[:page_facing_up:Python Basics.pdf](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view) |
-| intro to CS with python | [:movie_camera:MIT Course](https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&si=0n0PwJOLKb4_I9E1) |
-| Data Structures & Algorithms | [:movie_camera:MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| Regular Rxpression | [:page_facing_up:DataCamp](https://www.datacamp.com/tutorial/python-regular-expression-tutorial) |
-| Probability & Statistics | [:movie_camera:Descriptive Statistics](https://youtube.com/playlist?list=PLTNMv857s9WVStKLco6ZBOsfSGXzJ1L0f&si=HhD3MFQzLKCztMLU)
-[:movie_camera:DataCamp, Into to statisitics](https://www.datacamp.com/courses/introduction-to-statistics?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)
-[:movie_camera:DataCamp, Into to Statistics with python]([&utm_content=coursedetailpage](https://www.datacamp.com/courses/introduction-to-statistics-in-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)
-[:movie_camera:Statistics Fundamentals](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&si=m1zy6reumGp1bNKN) |
-| Pandas | [[:movie_camera:Datacamp, Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)
-[[:movie_camera:DataCamp, Joining Data with pandas](https://www.datacamp.com/courses/joining-data-with-pandas?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)
-[:page_facing_up:Pandas 100 tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)
-[:page_facing_up:Getting started with pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) |
+| 📚 **Topic** | 🎯 **Resources** |
+|:---|:---|
+| 🐍 **Python** | 🎥 [Udacity – Introduction to Python](https://www.udacity.com/org/aws-ai-ml-scholars-program/course/introduction-to-python--ud1110)<br>🎥 [Corey Schafer – Python Playlist](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&si=udnbLb2hbFvFVc_Y)<br>🎥 [Arabic Python Course](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=qFJVKbjyohBr78ge)<br>📄 [Python Basics PDF](https://drive.google.com/file/d/1xhO5X5iGJeottX2dc2gNejQll0sTBgHz/view) |
+| 💻 **Introduction to Computer Science with Python** | 🎥 [MIT – Introduction to Computer Science](https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&si=0n0PwJOLKb4_I9E1) |
+| 🧩 **Data Structures & Algorithms** | 🎥 [MIT – Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
+| 🔤 **Regular Expressions** | 📄 [DataCamp – Python Regular Expressions Tutorial](https://www.datacamp.com/tutorial/python-regular-expression-tutorial) |
+| 📊 **Probability & Statistics** | 🎥 [Descriptive Statistics](https://youtube.com/playlist?list=PLTNMv857s9WVStKLco6ZBOsfSGXzJ1L0f&si=HhD3MFQzLKCztMLU)<br>🎥 [DataCamp – Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)<br>🎥 [DataCamp – Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)<br>🎥 [Statistics Fundamentals](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&si=m1zy6reumGp1bNKN) |
+| 🐼 **Pandas** | 🎥 [DataCamp – Data Manipulation with Pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)<br>🎥 [DataCamp – Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)<br>📄 [Pandas 100 Tricks](https://www.kaggle.com/code/shivan118/pandas-100-tricks)<br>📄 [Pandas – Getting Started](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) |
 
