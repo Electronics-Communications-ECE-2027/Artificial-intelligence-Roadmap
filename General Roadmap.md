@@ -43,6 +43,7 @@ flowchart TD
 </div>
 ## 🟢 Beginner Level
 
+
 > 💡 **Tip**:
 > You can use both **Python** and **R** as programming languages; however, I recommend **Python** as your primary choice. You will still encounter R, particularly in tasks related to data analytics and statistical analysis.
 >
