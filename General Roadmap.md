@@ -60,7 +60,7 @@ flowchart TD
 | **Numpy** | 🎥 [DataCamp - Introduction to NumPy](https://www.datacamp.com/courses/introduction-to-numpy?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage)<br> 📄 [Tutorial](https://numpy.org/learn/) <br> 📄 [Kaggel - Numpy tutorial](https://www.kaggle.com/code/legendadnan/numpy-tutorial-for-beginners-data-science)
 | **Data Cleaning** | 🎥 [DataCamp - Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python)<br> 📄 [Article](https://towardsdatascience.com/how-to-clean-your-data-in-python-8f178638b98d/) <br> 📄 [Kaggle - Data Cleaning](https://www.kaggle.com/learn/data-cleaning) <br> [DataCamp - A Beginner’s Guide to Data Cleaning in Python](https://www.datacamp.com/tutorial/guide-to-data-cleaning-in-python) | 
 ---
-## 🟡 intermediate Level
+## 🟡 Intermediate Level
 | 📚 **Topic** | 🎯 **Resources** |
 |:---|:---|
 | **1.Git** | 🎥 [Udacity - Version Control with Git](https://www.udacity.com/enrollment/ud123)<br> 🎥 [Arabic Course](https://www.youtube.com/watch?v=Q6G-J54vgKc)<br> 🎥 [Arabic Course](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=otqwY16AOo0SC9V_)|
@@ -74,7 +74,7 @@ flowchart TD
 | **Feature Engineering** | 📕 [Book - Feature Engineering for Machine Learning](https://drive.google.com/file/d/1BkJYO0tqMYptTWUDQ7X0vd2aygohHRm8/view)<br> 📄 [Kaggle - Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 | **Model Deployment (1)** | 🌐 [Streamlit](https://streamlit.io/)<br> 🌐 [Gradio](https://gradio.app/)<br> 🎥 [Coursera - Build a Machine Learning Web App with Streamlit and Python](https://www.coursera.org/projects/machine-learning-streamlit-python)<br> 🎥 [Coursera - Building AI Apps with Hugging Face Spaces and Gradio](https://www.coursera.org/learn/building-ai-apps-with-hugging-face-spaces-and-gradio)<br> 🎥 [FreeCodeCamp - Build 12 Data Science Apps with Python and Streamlit](https://youtu.be/JwSS70SZdyM?si=eADq3SBNckBKJpT0) |
 ---
-## 🔴 intermediate Level
+## 🔴 Advanced Level
 | 📚 **Topic** | 🎯 **Resources** |
 |:---|:---|
 | **Deep Learning** | 🎥 [Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) |
